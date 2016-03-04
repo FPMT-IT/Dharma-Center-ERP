@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include dharma_center_erp *.css
+recursive-include dharma_center_erp *.csv
+recursive-include dharma_center_erp *.html
+recursive-include dharma_center_erp *.ico
+recursive-include dharma_center_erp *.js
+recursive-include dharma_center_erp *.json
+recursive-include dharma_center_erp *.md
+recursive-include dharma_center_erp *.png
+recursive-include dharma_center_erp *.py
+recursive-include dharma_center_erp *.svg
+recursive-include dharma_center_erp *.txt
+recursive-exclude dharma_center_erp *.pyc
