@@ -7,7 +7,7 @@ def get_data():
 		{
 			"module_name": "Dharma Center ERP",
 			"color": "red",
-			"icon": "octicon octicon-file-directory",
+			"icon": "octicon octicon-broadcast",
 			"type": "module",
 			"label": _("Dharma Center ERP")
 		}
