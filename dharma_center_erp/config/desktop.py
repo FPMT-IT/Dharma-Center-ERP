@@ -9,6 +9,6 @@ def get_data():
 			"color": "red",
 			"icon": "octicon octicon-broadcast",
 			"type": "module",
-			"label": _("Dharma Center ERP")
+			"label": _("Contact Management")
 		}
 	]
