@@ -76,7 +76,13 @@ app_license = "MIT"
 # 		"on_cancel": "method",
 # 		"on_trash": "method"
 #	}
+## }
+#doc_events = {
+# 	"Contact": {
+# 		"validate": "dharma_center_erp.api.compose_contact_name"
+#	}
 # }
+#
 
 # Scheduled Tasks
 # ---------------
